@@ -15,10 +15,8 @@
 
 [5 - Managing user_list State ](../../tree/f4bb15383579fbf28ca4c8331ca13a51adae4647/)
 
-[6 - Empty ](../../tree//)
+[6 - Adding the error-modal component ](../../tree/db1858cdbd7f905ffb0660b42de2cef224fe1b02/)
 
 [7 - Empty ](../../tree//)
 
-[8 - Empty ](../../tree//)
 
-[9 - Empty ](../../tree//)
